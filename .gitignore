@@ -1,0 +1,14 @@
+.DS_Store
+venv
+.env
+.envs
+.idea
+.pytest_cache
+.ruff_cache
+.mypy_cache
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.cache
+.cache/
